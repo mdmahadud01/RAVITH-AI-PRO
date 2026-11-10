@@ -1,0 +1,5 @@
+python-telegram-bot>=20.8,<23
+aiohttp>=3.9,<4
+Pillow>=10,<13
+colorama>=0.4.6,<1
+pytz>=2024.1
